@@ -13,6 +13,14 @@ they add up to a specific target number. Let these two numbers be numbers[index1
 - Your solution must use only constant extra space.
 */
 
+/* 
+Solution runtime: 49ms.
+Solution time complexity: O(n^2)
+Solution space complexity: O(n)
+Solution is faster than 89.6% of submissions 
+Solution uses the two-pointer technique 
+*/
+
 /**
  * @param {number[]} numbers
  * @param {number} target
